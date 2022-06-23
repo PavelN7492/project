@@ -79,3 +79,4 @@ pers = input('Количество сотрудников : ')
 pers = int(pers)
 pribpers = prib / pers  #количество прибыли на одного сотрудника
 print(pribpers)
+
